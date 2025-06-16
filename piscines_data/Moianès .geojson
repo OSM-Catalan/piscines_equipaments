@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Moianès ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "idequipament": "24607499", "alies": "PISCINES MUNICIPALS", "nom": "PISCINES MUNICIPALS", "categoria": "Esports. Lleure|Instal·lacions esportives|Piscina a l'aire lliure| Esports. Lleure|Instal·lacions esportives|Piscina a l'aire lliure| Esports. Lleure|Instal·lacions esportives|Piscina a l'aire lliure|", "tipus_via": "C.", "via": "C. de la Tosca, 1, Moià", "sufix_via": "", "num": "1", "cpostal": "8180", "poblacio": "Moià", "codi_municipi": "81385", "comarca": "Moianès ", "telefon1": null, "utmx": "424819", "utmy": "4628915", "data_modificacio": "2025-06-15T07:04:25.000Z", ":@computed_region_wvic_k925": "18", ":@computed_region_bh64_c7uy": "677", "propietats": "Enllaç| <a href=\" http://equipaments.esport.gencat.cat/ceeree/equipaments/25013\" target=\"_blank\">Cens d'equipaments esportius de Catalunya</a><br/>Espais:<br/>1. Piscina a l'aire lliure<br/>2. Piscina a l'aire lliure<br/>3. Piscina a l'aire lliure", "telefon2": "", "fax": "", "email": "" }, "geometry": { "type": "Point", "coordinates": [ 2.0970793, 41.8114323 ] } }
+]
+}
